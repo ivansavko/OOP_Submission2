@@ -28,7 +28,6 @@ public abstract class Content : MonoBehaviour
 
     public virtual void GetInfo()
     {
-        //return "";
         Debug.Log("animationSpeed = " + animationSpeed);
     }
 

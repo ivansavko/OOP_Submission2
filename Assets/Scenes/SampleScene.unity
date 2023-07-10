@@ -828,7 +828,7 @@ GameObject:
   - component: {fileID: 1286377634}
   - component: {fileID: 1286377633}
   m_Layer: 0
-  m_Name: ShowAD Manager
+  m_Name: Main Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -861,7 +861,7 @@ MonoBehaviour:
   - {fileID: 32900000, guid: 5fe21f5efbbbce94d9fce0de0f762e8b, type: 3}
   videoPlayer: {fileID: 1759537182}
   imageDisplay: {fileID: 35863534}
-  imageDisplayDuration: 2
+  imageDisplayDuration: 5
   imageDisplayCountdown: 0
   currentImageIndex: 0
   currentVideoIndex: 0
